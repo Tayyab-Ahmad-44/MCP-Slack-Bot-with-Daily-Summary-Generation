@@ -1,0 +1,5 @@
+slack-bolt>=1.18.0
+mcp>=0.1.0
+httpx>=0.25.0
+asyncio
+python-dotenv>=1.0.0
